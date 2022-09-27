@@ -114,5 +114,6 @@ while True:
 
 print("Thanks for playing, bye bye!")
 
+
 # switch case > if
 # add ui
