@@ -115,5 +115,6 @@ while True:
 print("Thanks for playing, bye bye!")
 
 
-# switch case > if
+# refactor with switch case
+# add 3 round limit and winner announcement
 # add ui
